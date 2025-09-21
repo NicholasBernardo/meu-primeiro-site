@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>times.html</title>
+</head>
+<body>
+    <h1>os maiores times e os times rebaixados do Brasileirão</h1>
+    <h2>maiores times:</h2>
+    <p>
+        <h2>1-Flamengo:</h2>
+        <img src="https://logopng.com.br/logos/flamengo-15.png"width=140px height="170">
+
+<p>
+<a href="https://www.flamengo.com.br/" </a> site oficial do flamengo. </a>
+<p>
+    <h2>2-palmeiras:</h2>
+        <img src="https://logodetimes.com/times/palmeiras/logo-palmeiras-2048.png"width=200px height="170">
+<p>
+<a href="https://www.palmeiras.com.br/" </a> site oficial do palmeiras. </a>
+<h2>3-cruzeiro:</h2>
+        <img src="https://www.pngmart.com/files/22/Cruzeiro-PNG-File.png"width=200>
+<p>
+<a href="https://www.bing.com/ck/a?!&&p=ffa8e31c4ff934a39fff29d1de918c9f29f0dfab61ef473f05ff9185cd0a375aJmltdHM9MTc1ODQxMjgwMA&ptn=3&ver=2&hsh=4&fclid=276dbfae-0db4-6d1e-0bdf-a9a20c056c1e&psq=site+do+cruzeiro&u=a1aHR0cHM6Ly93d3cuY3J1emVpcm8uY29tLmJyLw" <a>site oficial do cruzeiro.</a>
+<p>
+    
+    <h2>times rebaixados:</h2>
+    <p>
+        <h2>20-Recife:</h2>
+        <img src="https://2.bp.blogspot.com/-WHy9iX1p2VI/WWPKts4FAGI/AAAAAAABMdY/5ex4mBpV6m8bXBistsT8UuJCFB1hpB_KACLcBGAs/s1600/Sport%2BClub%2Bdo%2BRecife.png"width=220px height="150">
+
+<p>
+<a href="https://sportrecife.com.br/" </a> site oficial do esporte recife. </a>
+<p>
+    <h2>19-fortaleza:</h2>
+        <img src="https://clipground.com/images/fortaleza-png-5.png"width=200px height="170">
+<p>
+<a href="https://www.palmeiras.com.br/" </a> site oficial do fortaleza. </a>
+<h2>18-EC juventude RS:</h2>
+        <img src="https://logodetimes.com/times/juventude/logo-juventude-2048.png"width=200>
+<p>
+<a href="https://www.juventude.com.br/" <a>site oficial do juventude.</a>
+</p>
+</p>
+    </p>
+</body>
+</html>
